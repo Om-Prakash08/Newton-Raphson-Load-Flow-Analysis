@@ -1,5 +1,5 @@
 %   Power flow solution by Newton-Raphson method
-%   Copyright (c) 1998 by  H. Saadat
+
 ns=0; ng=0; Vm=0; delta=0; yload=0; deltad=0;
 nbus = length(busdata(:,1));
 
