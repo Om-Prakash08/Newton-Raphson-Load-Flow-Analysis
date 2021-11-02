@@ -1,7 +1,6 @@
 %  This program prints the power flow solution in a tabulated form
 %  on the screen.
-%
-%  Copyright (C) 1998 by H. Saadat.
+
 
 %clc
 disp(tech)
