@@ -1,7 +1,6 @@
-%  This program is used in conjunction with lfgauss or lf Newton
+%  This program is used in conjunction with lf Newton
 %  for the computation of line flow and line losses.
-%
-%  Copyright (c) 1998 H. Saadat
+
 SLT = 0;
 fprintf('\n')
 fprintf('                           Line Flow and Losses \n\n')
