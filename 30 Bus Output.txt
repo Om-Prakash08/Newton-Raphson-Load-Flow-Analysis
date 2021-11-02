@@ -1,4 +1,4 @@
-CHP6EX9
+
                    Power Flow Solution by Newton-Raphson Method
                       Maximum Power Mismatch = 7.54898e-07 
                              No. of Iterations = 4 
